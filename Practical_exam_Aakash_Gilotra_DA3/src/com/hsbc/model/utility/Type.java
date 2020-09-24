@@ -1,0 +1,5 @@
+package com.hsbc.model.utility;
+
+public enum Type {
+	SERVICEITEM,SERVICEELECTRONIC,SERVICEAPPAREL, DAOFOOD, DAOAPPAREL, DAOELECTRONICS
+}
